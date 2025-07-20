@@ -14,7 +14,7 @@ I'm a software engineer dedicated to solving problems and creating value through
 
 - **Languages:** JavaScript, Python, Java, PHP
 - **Frontend:** React, HTML, CSS
-- **Backend:** Node.js, Express, .NET Core
+- **Backend:** Go, Node.js, Express, .NET Core
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQL Server
 - **DevOps:** GitHub Actions
 
